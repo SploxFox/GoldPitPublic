@@ -85,4 +85,5 @@ h2 {
 
 .countdownContainer {
     white-space: nowrap;
+    width: 7ch;
 }
